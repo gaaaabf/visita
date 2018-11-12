@@ -1,3 +1,4 @@
+/* Customed stylesheet starts here*/
 .header
 {
   position: relative;
@@ -16,79 +17,6 @@
   text-align: center;
   margin-top: 100px;
 }
-.main
-{
-	margin-top: 30px;
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    border: 2px black solid;
-    background-color: #6a361094;
-}
-.hitems
-{	
-	margin-right: 10px;
-	margin-left: 15px;
-
-}
-.hitems:hover
-{
-	background-color: #b0dbd0;
-	border: 1px solid black;
-}
-
-ul
-{
-	position: relative;
-	list-style-type: none;
-	top: -9px;
-	margin: 0;
-}
-li a
-{
-	float: left;
-	color: black;
-	text-decoration: none;
-	font-family: sans-serif;
-	margin-left: 2px;
-	margin-right: 2px;
-	margin-top: 10px;
-	display: block;
-	padding: 15px;
-	display: flex;
-}
-
-.current
-{
-/*	background-color: #b0dbd0;
-	border: 1px solid black;
-	text-decoration: underline;*/
-	color: black;
-	font-weight: bolder;
-	box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
-}
-.search
-{
-	float: left;
-}
-
-.gallerycontent
-{
-	border: 1px solid black;
-	border-radius: 3px;
-    display: inline-block;
-    margin-top: 30px;
-    margin-right:5px;
-	margin-left:5px;
-	box-shadow: 3px 3px #00000052 ;
-}
-
-textarea
-{
-	resize: none;
-	border: none;
-	width: 19vw;
-}
 
 h1
 {
@@ -103,22 +31,13 @@ h1
 	url('Lobster_1.3.otf') format('opentype');
 }
 
-.gallerypics
-{
-	width: 20vw;height: 20vw;
-}
-
 body
 {
-/*	background-color: #6a361094;*/
-/*	background-image: url("bg1.jpg");
-	background-position: center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;*/
 	background-size: 100% 100%;
 	margin: 0;
 }
 
+/* Customed stylesheet ends here*/
 
 
 .gallery-block{
