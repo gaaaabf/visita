@@ -17,6 +17,13 @@
 {
   background-color: #f8f9fa;
 }
+
+.cs-carousel
+{
+    height: 40vw;
+    object-fit: cover;
+}
+
 h1
 {
 	font-family: Lobster;
