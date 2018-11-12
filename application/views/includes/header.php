@@ -9,9 +9,9 @@
 
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url("assets/style.css"); ?>">
 
-	<script type="text/javascript" src="<?php echo base_url("assets/jquery-3.3.1.min.js"); ?>" ></script>
+	<script type="text/javascript" src="<?php echo base_url("assets/bootstrap/js/jquery-3.3.1.min.js"); ?>" ></script>
 
-  <script type="text/javascript" src="<?php echo base_url("assets/function.js"); ?>" ></script>
+  <script type="text/javascript" src="<?php echo base_url("assets/bootstrap/js/function.js"); ?>" ></script>
 	<script type="text/javascript" src="<?php echo base_url("assets/bootstrap/js/bootstrap.min.js"); ?>" ></script>
 
 
