@@ -20,7 +20,13 @@
 
 .cs-carousel
 {
+    height: 20vw;
     object-fit: cover;
+}
+
+.cs-carousel-con
+{
+  height: 25vw;
 }
 
 @font-face
