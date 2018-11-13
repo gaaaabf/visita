@@ -20,7 +20,7 @@
 
 .cs-carousel
 {
-    height: 40vw;
+    height: 20vw;
     object-fit: cover;
 }
 
@@ -41,6 +41,12 @@ body
 {
 	background-size: 100% 100%;
 	margin: 0;
+}
+
+#carouselExampleControls
+{
+  width: 90%;
+  margin: auto;
 }
 
 /* Customed stylesheet ends here*/
