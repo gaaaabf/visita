@@ -20,7 +20,6 @@
 
 .cs-carousel
 {
-    height: 20vw;
     object-fit: cover;
 }
 
@@ -60,6 +59,8 @@ body
   padding-top: 20px;
   padding-bottom: 20px;
   text-align: center;
+  color: white;
+  text-shadow: 0px 0px 20px black;
 }
 
 /* Customed stylesheet ends here*/

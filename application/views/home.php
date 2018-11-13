@@ -8,29 +8,32 @@
         <div class="carousel-inner" role="listbox">
 
             <div class="cs-homeTitle">
-                <h1 style="font-size: 8rem;">VISITA</h1>               
+                <h1 style="font-size: 10rem;">VISITA</h1>  
             </div>
+            <div class="carousel-caption d-none d-md-block">
+                <p>Discover CEBU</p>
+            </div>             
 
           <!-- Slide One - Set the background image for this slide in the line below -->
-          <div class="carousel-item active" style="background-image: url('http://placehold.it/1900x1080')">
-            <div class="carousel-caption d-none d-md-block">
+          <div class="carousel-item active" style="background-image: url('<?php echo base_url("assets/images/img/image1.jpg"); ?>')">
+ <!--            <div class="carousel-caption d-none d-md-block">
               <h3>First Slide</h3>
               <p>This is a description for the first slide.</p>
-            </div>
+            </div> -->
           </div>
           <!-- Slide Two - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('http://placehold.it/1900x1080')">
-            <div class="carousel-caption d-none d-md-block">
+          <div class="carousel-item" style="background-image: url('<?php echo base_url("assets/images/img/image3.jpg"); ?>')">
+ <!--            <div class="carousel-caption d-none d-md-block">
               <h3>Second Slide</h3>
               <p>This is a description for the second slide.</p>
-            </div>
+            </div> -->
           </div>
           <!-- Slide Three - Set the background image for this slide in the line below -->
-          <div class="carousel-item" style="background-image: url('http://placehold.it/1900x1080')">
-            <div class="carousel-caption d-none d-md-block">
+          <div class="carousel-item" style="background-image: url('<?php echo base_url("assets/images/img/image2.jpg"); ?>')">
+ <!--            <div class="carousel-caption d-none d-md-block">
               <h3>Third Slide</h3>
               <p>This is a description for the third slide.</p>
-            </div>
+            </div> -->
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
