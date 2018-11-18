@@ -54,6 +54,8 @@
 		<h1 style="display:inline-block;">Book your Tourist Guide now!</h1>
 	</div>		
 
+<div style="margin: auto;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125915.79154237449!2d123.34229560290467!3d9.520153971850762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33ab9fc3ba1584b3%3A0xcb54005bbcc85855!2sOslob%2C+Cebu!5e0!3m2!1sen!2sph!4v1542279514692" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62799.24924365402!2d123.90999134965246!3d10.34563710929729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99889680ceefd%3A0xa9f911a1f5dda572!2sMandaue+City%2C+Cebu!5e0!3m2!1sen!2sph!4v1542523913001" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 <!-- 	<div>	
 		<p><a href="#">Become a TOUR GUIDE</a></p>
 	</div> -->
